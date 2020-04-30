@@ -1,0 +1,28 @@
+﻿[PMC Code v5.0.5]|||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Groups=Start:1
+1|WinActivate||1|0|WinActivate||#general - Discord ahk_class Chrome_WidgetWin_1|||
+2|[Pause]||1|300|Sleep|||||
+3|Left Move & Click|261, 968 Left, Down|1|0|Click|||||
+4|Left Move & Click|261, 968 Left, Down|1|0|Click|||||
+5|[Pause]||1|300|Sleep|||||
+6|Left Move & Click|261, 968 Left, Up|1|0|Click|||||
+7|Left Move & Click|261, 968 Left, Up|1|0|Click|||||
+8|[Pause]||1|750|Sleep|||||
+9|Left Move & Click|898, 421 Left, Down|1|0|Click|||||
+10|Left Move & Click|898, 421 Left, Down|1|0|Click|||||
+11|[Pause]||1|300|Sleep|||||
+12|Left Move & Click|898, 421 Left, Up|1|0|Click|||||
+13|Left Move & Click|898, 421 Left, Up|1|0|Click|||||
+14|[Pause]||1|300|Sleep|||||
+15|Left Move & Click|856, 498 Left, Down|1|0|Click|||||
+16|Left Move & Click|856, 498 Left, Down|1|0|Click|||||
+17|[Pause]||1|300|Sleep|||||
+18|Left Move & Click|856, 498 Left, Up|1|0|Click|||||
+19|Left Move & Click|856, 498 Left, Up|1|0|Click|||||
+20|[Pause]||1|300|Sleep|||||
+21|Left Move & Click|1086, 714 Left, Down|1|0|Click|||||
+22|Left Move & Click|1086, 714 Left, Down|1|0|Click|||||
+23|[Pause]||1|300|Sleep|||||
+24|Left Move & Click|1086, 714 Left, Up|1|0|Click|||||
+25|Left Move & Click|1086, 714 Left, Up|1|0|Click|||||
+

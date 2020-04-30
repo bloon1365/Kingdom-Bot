@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07fc7fee-f1ed-4548-804b-4de6d1c2318b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="KingdomsBot2" />
+  </component>
+  <component name="ProjectId" id="1ZdRYkkxpypKo8KuLLid9Ms1I9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="Project Files" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Map">
+    <configuration name="Map" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KingdomsBot2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/pyGame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/pyGame/Map.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pandemic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KingdomsBot2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Extra/pyGame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extra/pyGame/Pandemic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="KingdomsBot2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.my_bot" />
+        <item itemvalue="Python.Map" />
+        <item itemvalue="Python.Pandemic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07fc7fee-f1ed-4548-804b-4de6d1c2318b" name="Default Changelist" comment="" />
+      <created>1585167033786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585167033786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="146" key="#MessageControl" timestamp="1585271037637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="146" key="#MessageControl/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1585271037637" />
+    <state x="552" y="178" key="#Python" timestamp="1585187044304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Python/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1585187044304" />
+    <state x="2312" y="88" key="#TODO" timestamp="1585189146329">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2312" y="88" key="#TODO/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189146329" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586906668290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1586906668290" />
+    <state width="1899" height="147" key="GridCell.Tab.0.bottom" timestamp="1588274562740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="147" key="GridCell.Tab.0.bottom/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588274562740" />
+    <state width="1579" height="276" key="GridCell.Tab.0.bottom/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state width="1899" height="147" key="GridCell.Tab.0.center" timestamp="1588274562739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="147" key="GridCell.Tab.0.center/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588274562739" />
+    <state width="1579" height="276" key="GridCell.Tab.0.center/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state width="1899" height="147" key="GridCell.Tab.0.left" timestamp="1588274562739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="147" key="GridCell.Tab.0.left/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588274562739" />
+    <state width="1579" height="276" key="GridCell.Tab.0.left/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096755" />
+    <state width="1899" height="147" key="GridCell.Tab.0.right" timestamp="1588274562740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="147" key="GridCell.Tab.0.right/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588274562740" />
+    <state width="1579" height="276" key="GridCell.Tab.0.right/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1585189096756">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1585189096756">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.center/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1585189096756">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.left/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1585189096756">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.right/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189096756" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1585172326133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1585172326133" />
+    <state x="400" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588273539267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="400" y="0" key="com.intellij.ide.util.TipDialog/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1588273539267" />
+    <state x="2291" y="166" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585189080579">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="2291" y="166" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@1920.0.1600.860" timestamp="1585189080579" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586908076325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1600.860/0.0.1920.1040/-1600.0.1600.860@0.0.1920.1040" timestamp="1586908076325" />
+  </component>
+</project>
