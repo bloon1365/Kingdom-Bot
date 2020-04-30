@@ -23,17 +23,22 @@ A player can create an army (after being setup) by typing the command
 !set army new [kingdomname] [population in army] [x coordinates on map] [y coordinates on map] [armyn ame]
 ```
 and the bot would return this:
-![Image of bot responding]()
+
+![Image of bot responding](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Create%20Army.png)
 
 Now to view this army, the user would join the voice channel named "Map" and the user already in the would automatically start streaming the map (the user would not be streaming 24/7 because of internet speeds)
-![Image of map]()
+
+![Image of map](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Create%20Army%20Map.png)
 
 Now that you have armies, you can move them. Use this command to make them in any cardinal direction.
 ```
 !army move kingdom1 army1 right
 ```
-![Image of bot responding]()
-![Image of map]()
+
+![Image of bot responding](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Moving%20Army.png)
+
+![Image of map](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Moving%20Army%20Map.png)
+
 As you can see the bot has moved right on square. This is automatically tracked by the bot and can be limited to any number, unique to every army. There is also an enemy army, that is displayed as red. We can move right again and then again, (attempting to move onto the enemy square) this will automatically start a combat. I will not explain how combat is calculated, but you can see the result in the chat. One army will die, the other will survive with damage
 
 ### Jobs/Inventory
@@ -48,13 +53,15 @@ and then view assigned population by typing
 !view jobs kingdom1
 ```
 
-![Image of Population being assigned]()
+![Image of Population being assigned](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/population%20assigined.png)
 
 these numbers would be calculated at the end of the day to put the appropriate resources into the player's inventory.
+
 ```
 !view inv kingdom1
 ```
-![Image of Invetory]()
+
+![Image of Invetory](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Inventory.png)
 
 ## Built With
 
