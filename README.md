@@ -35,7 +35,7 @@ Now that you have armies, you can move them. Use this command to make them in an
 !army move kingdom1 army1 right
 ```
 
-![Image of bot responding](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Moving%20Army.png
+![Image of bot responding](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Moving%20Army.png)
 
 ![Image of map](https://github.com/bloon1365/Kingdom-Bot/blob/master/KingdomsBot2/Readme%20Stuff/Moving%20Army%20Map.png)
 
